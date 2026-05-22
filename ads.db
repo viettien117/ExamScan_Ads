@@ -1,0 +1,11 @@
+# AdManager - Bang quang cao (Advertisements)
+# Cot: id | brand_name | image_path | click_url | duration_ms | expiry_date
+# expiry_date dinh dang YYYY-MM-DD; de trong = hien thi mai mai
+#
+1|1_BaozDimsum_Web|AdImages\\1_BaozDimsum_web.png|https://baozdimsum.com/|5000|
+2|2_BaozDimsum_FanPage_Facbook|AdImages\\2_BaozDimsum_FanPage_Facbook.png|https://www.facebook.com/BaozDimsum/|5000|
+3|3_BaozDimsum_TikTok_web|AdImages\\3_BaozDimsum_TikTok_web.png|https://www.tiktok.com/@baozdimsum|5000|
+4|4_BaozDimsum_ThucDon_web|AdImages\\4_BaozDimsum_ThucDon_web.png|https://baozdimsum.com/thuc-don/|5000|
+5|5_BaozDimsum_Menu_web|AdImages\\5_BaozDimsum_Menu_web.png|https://baozdimsum.com/wp-content/uploads/2025/02/MENU-BAOZ-DIMSUM-2025.pdf|5000|
+6|6_BaozDimsum_TinTuc_web|AdImages\\6_BaozDimsum_TinTuc_web.png|https://baozdimsum.com/tin-tuc/|5000|
+7|7_BaozDimsum_ThanhVien_web|AdImages\\7_BaozDimsum_ThanhVien_web.png|https://baozdimsum.com/thanh-vien/|5000|2026-03-11
